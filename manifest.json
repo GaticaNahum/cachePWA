@@ -3,7 +3,7 @@
     "background_color": "#d07a85",
     "display": "standalone",
     "scope": "/",
-    "start_url": "/",
+    "start_url": "index.html",
     "name": "ReportesPWA",
     "short_name": "rpwa",
     "description": "Es un manifest para pwa, prueba",
